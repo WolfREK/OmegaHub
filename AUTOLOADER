@@ -1,0 +1,7 @@
+--Pxyware HUB is very hot
+--wolfrek is cool
+--why you snoopin man u creep
+
+if game.PlaceId == gameid then
+  loadstring(game:HttpGet('insert link here',true))()
+end
