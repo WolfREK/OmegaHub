@@ -1,6 +1,6 @@
 --Stop snooping weirdo
 --Omega Hub is hotter than ur uncle
 
-if game.PlaceId == 3276265788 then
+if game.PlaceId == 3956818381 then
   loadstring(game:HttpGet('https://github.com/WolfREK/OmegaHub/blob/main/NinjaLegends1',true))()
 end
