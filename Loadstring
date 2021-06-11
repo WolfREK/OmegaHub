@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githack.com/WolfREK/OmegaHub/main/AUTOLOADER',true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WolfREK/OmegaHub/main/AUTOLOADER"))()
